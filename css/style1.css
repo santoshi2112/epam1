@@ -1,0 +1,9 @@
+body{
+text-align:center;
+vertical-align:middle;
+background-color:lightpink;
+}
+h1{
+font-style : italic;
+text-shadow : 3px 2px red;
+}
